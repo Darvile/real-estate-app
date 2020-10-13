@@ -1,0 +1,9 @@
+.wrapper {
+  background-color: var(--red);
+  color: var(--white);
+  max-width: 600px;
+  display: flex;
+  justify-content: space-between;
+  padding: var(--spacing-sm);
+  width: 100%;
+}

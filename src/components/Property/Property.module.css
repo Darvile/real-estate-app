@@ -1,0 +1,8 @@
+.topRight {
+  align-items: center;
+  display: flex;
+}
+
+.topRightLast {
+  padding-left: var(--spacing-xs);
+}

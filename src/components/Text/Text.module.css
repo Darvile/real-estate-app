@@ -1,0 +1,17 @@
+.base {
+    margin: 0;
+    font-size: 14px;
+}
+
+.p, .h1, .h2, .h3, .h4, .span, .small {
+    composes: base;
+}
+
+
+.h1 {
+    font-size: 24px;
+}
+
+.h2 {
+    font-size: 16px;
+}

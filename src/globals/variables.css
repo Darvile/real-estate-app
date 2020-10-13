@@ -1,0 +1,16 @@
+:root {
+  --primary: #343e49;
+  --secondary: #44525f;
+  --black: #4e4d4d;
+  --white: #f1f9fd;
+  --red: #ba4747;
+  --success: #55e60b;
+  --warning: #f9f102;
+  --error: #f90202;
+  --disabled: #d0d0d0;
+  --spacing-xxs: 4px;
+  --spacing-xs: 8px;
+  --spacing-sm: 16px;
+  --spacing-md: 32px;
+  --spacing-lg: 64px;
+}

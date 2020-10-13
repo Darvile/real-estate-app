@@ -1,0 +1,14 @@
+.wrapper {
+    background-color: var(--secondary);
+    border: none;
+    color: var(--white);
+    padding: var(--spacing-xs);
+}
+
+.wrapper:focus {
+    outline: none;
+}
+
+.label {
+    margin-right: var(--spacing-xs);
+}

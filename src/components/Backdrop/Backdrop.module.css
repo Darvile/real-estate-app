@@ -1,0 +1,11 @@
+.wrapper {
+  align-items: center;
+  background-color: var(--primary);
+  bottom: 0;
+  display: flex;
+  left: 0;
+  justify-content: center;
+  right: 0;
+  position: fixed;
+  top: 0;
+}

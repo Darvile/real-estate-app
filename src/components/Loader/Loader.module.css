@@ -1,0 +1,8 @@
+.wrapper img {
+  animation: loader 2.5s infinite linear both;
+  width: 40px;
+}
+
+@keyframes loader {
+  100% { transform: rotate(360deg); }
+}

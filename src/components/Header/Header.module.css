@@ -1,0 +1,9 @@
+.wrapper{
+    align-items: center;
+    color: var(--white);
+    display: flex;
+    flex: auto;
+    min-height: 100%;
+    padding: 0 var(--spacing-sm);
+}
+

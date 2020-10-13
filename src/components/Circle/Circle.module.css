@@ -1,0 +1,18 @@
+.wrapper {
+  border-radius: 50%;
+}
+
+.circle-sm {
+  height: var(--spacing-xs);
+  width: var(--spacing-xs);
+}
+
+.circle-md {
+  height: var(--spacing-md);
+  width: var(--spacing-md);
+}
+
+.circle-lg {
+  height: var(--spacing-lg);
+  width: var(--spacing-lg);
+}
